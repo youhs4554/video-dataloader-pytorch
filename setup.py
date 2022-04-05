@@ -12,7 +12,7 @@ setup(
     author              = 'hossay',
     author_email        = 'youhs4554@gmail.com',
     url                 = 'https://github.com/youhs4554/video-dataloader-pytorch.git', # github url
-    download_url        = 'https://github.com/youhs4554/video-dataloader-pytorch/archive/refs/tags/v0.1.tar.gz', # release url
+    download_url        = 'https://github.com/youhs4554/video-dataloader-pytorch/archive/refs/tags/v0.1-fix.tar.gz', # release url
     install_requires    =  ["torch", "torchvision", "scikit-learn", "decord", "matplotlib", "einops", "natsort", "pandas"], # required packages
     packages            = find_packages(exclude = []),
     keywords            = ['video tool', 'pytorch'], # 키워드
